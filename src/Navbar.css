@@ -1,0 +1,60 @@
+.navbar {
+  margin-left: -150px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 5px;
+  background-color: white;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.navbar-logo {
+  display: flex;
+  align-items: center;
+  background: linear-gradient(90.72deg, #0096ff 42.18%, #0048ff 93.77%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 45px;
+}
+.navbar-icons {
+  margin-right: -270px;
+}
+.navbar-links a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+.navbar-link-courses {
+  margin-left: -250px;
+}
+.navbar-link-programs {
+  margin-left: 80px;
+}
+.navbar-list {
+  display: flex;
+  align-items: center;
+}
+.navbar-list li {
+  list-style: none;
+}
+.navbar-list a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
+.navbar-list-join a {
+  color: white;
+}
+.navbar-list-join {
+  margin-left: 50px;
+  padding: 10px 20px;
+  border: 2px solid rgb(72, 94, 194);
+  background: linear-gradient(266.79deg, #0048ff 4.63%, #0096ff 100%);
+  border-radius: 52px;
+}
